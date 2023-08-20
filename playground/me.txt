@@ -1,0 +1,5 @@
+{{#user}}
+Name: Samipa Manna
+Skills: HTML, CSS, JS, Node.js
+Email: samipamanna0@gmail.com
+{{/user}}
